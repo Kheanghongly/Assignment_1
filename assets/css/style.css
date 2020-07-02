@@ -1,0 +1,172 @@
+.feature{
+    color: gray;
+}
+.space{
+    height: 100px;
+}
+.spacing{
+    height: 30px;
+}
+a:hover{
+    text-decoration: none;
+  }
+a:active{
+    text-decoration: none;
+  }
+.promotion{
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    height: 200px;
+    width: 100%;
+    padding: 10px;
+    position: relative;
+}
+.icon{
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    height: 60px;
+    width: 60px;
+    margin-top: 60px;
+}
+.B_promotion{
+    position: absolute;
+    left: 16px;
+    bottom: 30px;
+}
+.text_promotion{
+    position: relative;
+    margin-top: 15px;
+    color: white;
+}
+.production{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 30px 0px;
+    height: 350px;
+}
+#cate{
+    height: 30px;
+}
+.CategoryUl{
+    list-style-type: none;
+}
+.categoryButton{
+    background-color: white;
+    border: 1 solid black;
+    border-radius: 5px;
+    width: 100%;
+}
+.CategoryIcon{
+    height: 50px;
+    width: 50px;
+}
+.product{
+    height: 250px;
+}
+.addCard{
+    float: right;
+}
+.each_product{
+    margin-bottom: 15px;
+    position: relative;
+}
+#myDIV{
+    display: none;
+}
+.discount{
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    height: 30px;
+    width: 50px;
+    text-align: center;
+}
+.ass2{
+    right: 30px;
+    top: 25px;
+}
+.item_product{
+    display: none;
+}
+.loading{
+    width: 100%;
+}
+.search{
+    width: 300px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+
+}
+.searching{
+    width: 250px;
+}
+.price{
+    float: right;
+}
+.product11{
+    height: 250px;
+}
+.desc{
+    position: relative;
+}
+.card11{
+    position: absolute;
+    bottom: 20px;
+    width: 213.5px;
+    height: 30px;
+    line-height: 15px;
+    right: 20px;
+}
+.product22{
+    background-color: darkgrey;
+    color: black;
+    border: 1px solid darkgray;
+    height: 50px;
+    width: 300x;
+    border-radius: 5px;
+}
+.select_product{
+    border: 1px solid lightgray;
+    height: 50px;
+    width: 50px;
+}
+.product33{
+    text-align: center;
+}
+.select{
+    background-color: darkgray;
+    border-radius: 5px;
+    color: white;
+    line-height: 30px;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+    display:inline-block;
+}
+.product44{
+    position: absolute;
+    bottom: 60px;
+    right: 20px;
+}
+.verticle{
+    border-left: 1px solid lightgray;
+}
+.comment{
+    border: 1px solid lightgray;
+}
+.form_sign{
+    width: 600px;
+}
+.sign_text{
+    text-align: center;
+}
+.singin{
+    text-decoration: underline;
+}
+
+
